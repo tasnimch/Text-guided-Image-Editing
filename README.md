@@ -10,4 +10,4 @@ the modifications while preserving the visual integrity of the image.
 Artificial Intelligence, Computer Vision, Image Editing, Neural Models, Text-Guided Image Editing, Deep Learning, Large Language Models (LLMs)
 
 # Video Demonstration 🎥  
-![Demo Video](demo.webm)
+[Demo Video](https://drive.google.com/file/d/15FETtLlE_ilgOVO1WJA40GPmneoAdgFS/view?usp=sharing)
