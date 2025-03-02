@@ -8,3 +8,6 @@ the modifications while preserving the visual integrity of the image.
 
 # Key words
 Artificial Intelligence, Computer Vision, Image Editing, Neural Models, Text-Guided Image Editing, Deep Learning, Large Language Models (LLMs)
+
+# Video Demonstration 🎥  
+![Demo Video](demo.webm)
